@@ -103,7 +103,7 @@ Build:
 pip3 install -U -r requirements.txt
 
 Start:
-python3 main.py
+gunicorn app:app & python3 main.py
 ```
 
 ## VPS
