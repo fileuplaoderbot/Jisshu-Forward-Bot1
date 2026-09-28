@@ -43,12 +43,12 @@ class Translation(object):
 ╭───────────⍟
 ├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/KK7Forwardbot>Auto Forward Messages Bot</a>
 ├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/MovieHornOwner>Movie Horn</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/jisshubots>Jisshu Bots </a>   
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/+KNbm-z52EvhkOGU1>Auto Forward Messages Channel</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>
-├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>V-2.5.0
-├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>My Repo</a>
+├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://t.me/+KNbm-z52EvhkOGU1>V-2.5.0
+├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://t.me/+KNbm-z52EvhkOGU1>Not Available</a>
 ╰───────────────⍟</b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u>
