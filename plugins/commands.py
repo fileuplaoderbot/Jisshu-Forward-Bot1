@@ -134,7 +134,7 @@ async def back(bot, query):
 async def about(bot, query):
     await query.message.edit_media(
         media=InputMediaPhoto(
-        media="https://graph.org/file/e223aea8aca83e99162bb.jpg",
+        media="https://i.supaimg.com/53fa6de8-c1c2-4c17-8ff4-d0ffd389d9eb/78e70e4c-3086-4d14-91c2-e0b517621d9a.jpg",
         caption=Translation.ABOUT_TXT),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⛔ Back', callback_data='back')]])
         )
