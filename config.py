@@ -14,8 +14,8 @@ class Config:
     DATABASE_URI = environ.get("DATABASE_URI", "")
     DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
     
-    LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002452671264'))
-    FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "https://t.me/Jisshubots") # FORCE SUB channel link 
+    LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1004322054909'))
+    FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "https://t.me/+KNbm-z52EvhkOGU1") # FORCE SUB channel link 
     FORCE_SUB_ON = environ.get("FORCE_SUB_ON", "True")  # FORCE SUB ON - OFF
 
 
