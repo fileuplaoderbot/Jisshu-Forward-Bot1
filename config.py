@@ -3,10 +3,10 @@ from os import environ
 
 class Config:
     
-    API_ID = environ.get("API_ID", "00")
-    API_HASH = environ.get("API_HASH", "")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "") 
-    BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '5672857559').split()]
+    API_ID = environ.get("API_ID", "26683574")
+    API_HASH = environ.get("API_HASH", "69ba051f43cff367bf569bd54eb277a7")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "8062609271:AAHTXGUMBOIRHE-MmwOK5iwUkqZnGqS5ppw") 
+    BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '6069621485').split()]
     BOT_SESSION = environ.get("BOT_SESSION", "bot") 
 
     PICS = (environ.get('PICS', 'https://files.catbox.moe/uevfz8.jpg'))
